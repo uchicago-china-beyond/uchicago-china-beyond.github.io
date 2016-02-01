@@ -1,0 +1,64 @@
+url: https://uchicago-china-beyond.github.io
+baseurl: 
+
+# Site settings
+title: 知行万里
+email: uchicagozxwl@gmail.com
+description: "芝加哥大学知行万里是一个活跃在芝加哥地区的集学术、社区服务、和文化交流为一体的学生组织。"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 06c
+  secondary: 036
+  secondary-dark: 036
+
+# Team names, titles and social links
+people:
+- name: XXX XX
+  pic: 1
+  position: Lead Designer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: envelope
+      url: #
+
+- name: XXX XX
+  pic: 2
+  position: Lead Marketer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: envelope
+      url: #
+
+- name: XXX XX
+  pic: 3
+  position: Lead Developer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: envelope
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: facebook
+    url: https://www.facebook.com/uchicago/
+  - title: envelope
+    url: mailto:uchicagozxwl@gmail.com
+    
+# Postal address (add as many lines as necessary)
+address:
+  - line: 5801 S Ellis Ave
+  - line:  Chicago, IL 60637
+
+# Build settings
+markdown: kramdown
+permalink: pretty

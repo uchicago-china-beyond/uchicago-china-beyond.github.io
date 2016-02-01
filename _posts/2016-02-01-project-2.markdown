@@ -1,0 +1,15 @@
+---
+title:  芝加哥大学中美关系论坛
+subtitle: UChicago
+layout: default
+modal-id: 2
+date: 2015-02-01
+img: forum.png
+thumbnail: forum-thumbnail.png
+alt: image-alt
+project-date: February 2016
+client: UChicago
+category: Academic
+description: 本次论坛由芝加哥大学知行万里及CSSA联合发起，由芝加哥大学与中美两国其他八所高校联合举办，包括人民大学，北京大学，清华大学，哥伦比亚大学，纽约大学，乔治城大学，西北大学以及圣母大学。论坛旨在从多角度，客观并深入对中美关系面临的挑战和趋势进行富有建设性的对话。与会者将有机会与政界、商界与学界领袖接触，并且听取他们对中美关系在不同领域的具体发展的见解。同时，论坛将为全球领袖提供一个讨论中美关系的绝佳平台，并将关于两国关系的对话推进到一个新的阶段。
+
+---

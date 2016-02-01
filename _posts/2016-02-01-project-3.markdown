@@ -1,0 +1,16 @@
+---
+title: 芝加哥大学暑期峰会
+subtitle: UChicago
+layout: default
+modal-id: 3
+date: 2016-02-01
+img: conference.png
+thumbnail: conference-thumbnail.png
+alt: image-alt
+project-date: February 2016
+client: UChicago
+category: Academic
+description: 峰会的主要目的是搭建一个中美两国学生可以互相交流学习的桥梁。通过芝加哥大学著名教授、学生、学者与中美两国重要商界、政界、学术界领袖人物的共同参与，峰会将会为中国的优秀高中生提供一个可以接触世界顶尖教育资源的平台，也为美国大学生提供一个深入了解中国文化和国际机会的途径。与会的美国大学生将会精心设计一系列的课程与实践挑战来帮助中国高中生在全英文的环境下体验芝加哥大学等世界一流大学的教学传统和精神。
+
+
+---
